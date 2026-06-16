@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877 -DL -O11111114 -fo8 -N"C:\Users\yusuf\OneDrive\Masaüstü\Mikrodenetleyiciler\LAB ANTRENMAN\Step Motor\Step_Motor.mcppi" -SP"C:\Users\yusuf\OneDrive\Belgeler\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\yusuf\OneDrive\Belgeler\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\yusuf\OneDrive\Masaüstü\Mikrodenetleyiciler\LAB ANTRENMAN\Step Motor\" -IP"C:\Users\yusuf\OneDrive\Belgeler\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Step_Motor.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	Step_Motor.c
+diagnostics: 17	123	Compiled Successfully	Step_Motor.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)
+hint: 0	1144	Used ROM (program words): 70 (1%)  Free ROM (program words): 8122 (99%)	Used ROM (program words): 70 (1%)  Free ROM (program words): 8122 (99%)
+diagnostics: 0	125	Project Linked Successfully	Step_Motor.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'Step_Motor.mcppi' completed: 203 ms	 
+diagnostics: 0	103	Finished successfully: 02 Haz 2026, 03:24:54	Step_Motor.mcppi

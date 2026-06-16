@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877 -DL -O11111114 -fo8 -N"C:\Users\yusuf\OneDrive\Masaüstü\Mikrodenetleyiciler\LAB ANTRENMAN\LCD-LED\LCD_LED.mcppi" -SP"C:\Users\yusuf\OneDrive\Belgeler\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\yusuf\OneDrive\Belgeler\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\yusuf\OneDrive\Masaüstü\Mikrodenetleyiciler\LAB ANTRENMAN\LCD-LED\" -IP"C:\Users\yusuf\OneDrive\Belgeler\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "LCD_LED.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	LCD_LED.c
+diagnostics: 35	123	Compiled Successfully	LCD_LED.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RAM (bytes): 29 (8%)  Free RAM (bytes): 323 (92%)	Used RAM (bytes): 29 (8%)  Free RAM (bytes): 323 (92%)
+hint: 0	1144	Used ROM (program words): 497 (6%)  Free ROM (program words): 7695 (94%)	Used ROM (program words): 497 (6%)  Free ROM (program words): 7695 (94%)
+diagnostics: 0	125	Project Linked Successfully	LCD_LED.mcppi
+diagnostics: 0	128	Linked in 16 ms	 
+diagnostics: 0	129	Project 'LCD_LED.mcppi' completed: 219 ms	 
+diagnostics: 0	103	Finished successfully: 01 Haz 2026, 21:38:57	LCD_LED.mcppi
